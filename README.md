@@ -1,12 +1,13 @@
 ## About
 #### App for searching and learning english words
-![screenshotes](https://github.com/airmoor/dictionary/blob/master/screenshotes/word-info.PNG)
+![screenshotes](https://github.com/airmoor/dictionary/blob/master/screenshotes/word-info-main.PNG)
 
-## Used:
+## Used
 * React.js
 * Material Ui
 * Typescript
 * Merriam-Webster's Api
+* React hooks
 
 
 ## Available Scripts
